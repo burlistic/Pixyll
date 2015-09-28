@@ -6,7 +6,7 @@ permalink: /about/
 
 This is a blog by Will Webster. I am coach, trainer and developer who specializes in Agile and MS Web Development.
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+This blog was created using a Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
 Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
