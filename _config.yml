@@ -3,7 +3,7 @@ title:       Red Turtle
 email:       will.webster@mykolab.com
 author:      Will Webster
 description: "My blog"
-baseurl:     "/Pixyll"
+baseurl:     ""
 url:         "http://burlistic.github.io"
 date_format: "%b %-d, %Y"
 
