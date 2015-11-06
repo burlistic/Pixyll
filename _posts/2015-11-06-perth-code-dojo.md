@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Perth Code Dojo
-date:       2015-09-29
+date:       2015-11-06
 summary:    Experience Running The Perth Code Dojo
 categories: 
 ---
