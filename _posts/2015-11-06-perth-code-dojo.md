@@ -6,9 +6,9 @@ summary:    Experience Running The Perth Code Dojo
 categories: 
 ---
 
-Shortly after moving to Perth I decided to set up a local code dojo. It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzz feeling).
+Shortly after moving to Perth I decided to set up a local [code dojo](http://www.meetup.com/perth-code-dojo). It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzz feeling).
 
-Previously I had been a member of the London Code Dojo and had ran Dojos as a way of training TDD and programming practices for clients.
+Previously I had been a member of the [London Code Dojo](http://www.meetup.com/London-Code-Dojo) and had ran Dojos as a way of training TDD and programming practices for clients.
 
 ## Definition of a Code Dojo
 
@@ -56,11 +56,11 @@ You do not have to reinvent the wheel when running our own dojo. It can be nice 
 
 Some great resources include:
 
-Dave Thomas's Code Kata Website - http://codekata.com/
+Dave Thomas's Code Kata Website - [codekata.com](http://codekata.com/) 
 
-TDD Kata by Garora on Gitbug - https://github.com/garora/TDD-Katas
+TDD Kata by Garora on Github - [github.com/garora/TDD-Katas](https://github.com/garora/TDD-Katas)
 
-John Jagger's Cyber Dojo is also a great source of Kata and a pretty interesting tool in itself - http://cyber-dojo.org/
+John Jagger's Cyber Dojo is another a great source of Kata and a pretty interesting tool in itself - [cyber-dojo.org](http://cyber-dojo.org/)
 
 ### Deal with Anti Social Issues
 
@@ -95,8 +95,8 @@ For the Perth Codo Dojo I took the format used at the London Code Dojo and Sleep
 
 ### Links to Github / slides
 
-My examples can be found on github http://github/burlistic
+My examples can be found on [Github](http://github.com/burlistic)
 
-The slides I product can be found on speaker deck and are re-usable under Creative Commons http://speakerdeck/burlistic
+The slides I product can be found on [SpeakerDeck](http://speakerdeck.com/burlistic) and are re-usable under Creative Commons
 
-Thanks to @sleepyfox and out sponsors - Kiandra IT, Ajilon, Robert Walters and Spacecubed
+Thanks to [@sleepyfox](https://twitter.com/sleepyfox) and out sponsors - [Kiandra IT](http://kiandra.com.au/), [Ajilon](http://www.ajilon.com.au/), [Robert Walters](http://www.robertwalters.com.au) and [Spacecubed](http://spacecubed.com)
