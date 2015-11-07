@@ -6,7 +6,7 @@ summary:    Experience Running The Perth Code Dojo
 categories: 
 ---
 
-Shortly after moving to Perth I decided to set up a local [code dojo](http://www.meetup.com/perth-code-dojo). It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzz feeling).
+Shortly after moving to Perth I decided to set up a local [Code Dojo](http://www.meetup.com/perth-code-dojo). It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzz feeling).
 
 Previously I had been a member of the [London Code Dojo](http://www.meetup.com/London-Code-Dojo) and had ran dojos as a way of training TDD and programming practices for clients. In this post I will share my experiences in attending code dojos and some tips on how to run your own.
 
@@ -22,7 +22,7 @@ A Coding Dojo is a meeting where a bunch of coders get together to work on a pro
 
 I like seeing the way others approach a problem. Pairing up with new likeminded developers and seeing how they work. At the difference Code Dojos I attended I gained a good exposure to different programming languages and tool sets. Often participants are more than happy to show people their ways of working and even teach n00bs. As a professional programmer you can refine your skills and get a chance to mentors others.
 
-You can practice the Katas used in Code Dojos on your own, but I recommend finding your local Dojo (or starting one) and getting involved.
+You can practice the katas used in Code Dojos on your own, but I recommend finding your local Dojo (or starting one) and getting involved.
 
 ## The Perth Dojo
 
@@ -32,7 +32,7 @@ The Perth Code Dojo was started in 2014 and focused on software craftsmanship an
 
 ### Make People Feel Safe
 
-As the facilitator of a Dojo you must try to foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyone’s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
+As the facilitator of a dojo you must try to foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyone’s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
 
 If need be take individuals aside and ask them to be a bit more forgiving and concentrate more on helping others in the correct manor.
 
@@ -44,7 +44,7 @@ I recommend you do the kata yourself beforehand, so you can experience the chall
 
 ### Do Not Assume Peoples Skill Set
 
-Skilled programmers often do not like admitting they are stuck or do not understand something.  I recommend being a little obtrusive at times and asking to see peoples code and especially unit tests if practicing TDD. I have found that sometimes the most vocal members of a Dojo might be missing a crucial point and this can lead them to not gain as much as they otherwise would from the exercise. A vocal person such as this can also lead their pairing partner down the wrong path and instil the wrong types of practices. Do not be afraid to challenge people in the right way. The key is being respectful and making sure your intention comes across correctly - you are there to help and not criticise.
+Skilled programmers often do not like admitting they are stuck or do not understand something.  I recommend being a little obtrusive at times and asking to see peoples code and especially unit tests if practicing TDD. I have found that sometimes the most vocal members of a dojo might be missing a crucial point and this can lead them to not gain as much as they otherwise would from the exercise. A vocal person such as this can also lead their pairing partner down the wrong path and instil the wrong types of practices. Do not be afraid to challenge people in the right way. The key is being respectful and making sure your intention comes across correctly - you are there to help and not criticise.
 
 ### Walk the Room
 
@@ -83,7 +83,7 @@ For the Perth Codo Dojo I took the format used at the London Code Dojo and Sleep
 
 - Start with a brief intro explaining the concept of the dojo and the format for new arrivals and as a reminder. Explain the rules and ask people to be respectful and turn their phones to silent and stay off social media.
 
-- Provide an introduction to the chosen Kata then ask people to pair up. Give them 15 minutes to discuss and set up their environment Language of choice, IDE, test framework, etc. If there is an odd number than a group of three is fine.
+- Provide an introduction to the chosen kata then ask people to pair up. Give them 15 minutes to discuss and set up their environment Language of choice, IDE, test framework, etc. If there is an odd number than a group of three is fine.
 
 - Use the Pomodoro technique, with 25 minutes focused time on the kata and 5 minutes down time - I find this works great for paired programming and not just Codo Katas. Generally three Pomodoros is a nice time to spend on a kata before people begin to lose interest or you might find some people finish simple challenges. Ideally you want the challenge to remain unfinished for all; they can always finish or polish it after.
 
