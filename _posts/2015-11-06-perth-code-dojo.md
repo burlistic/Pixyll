@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Perth Code Dojo
 date:       2015-11-06
