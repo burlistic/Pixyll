@@ -1,4 +1,4 @@
----
+﻿---
 layout:     post
 title:      Perth Code Dojo
 date:       2015-11-06
@@ -10,7 +10,7 @@ Shortly after moving to Perth I decided to set up a local [Code Dojo](http://www
 
 Previously I had been a member of the [London Code Dojo](http://www.meetup.com/London-Code-Dojo) and had ran dojos as a way of training TDD and programming practices for clients. In this post I will share my experiences in attending code dojos and some tips on how to run your own.
 
-Unlike to 'CoderDojo' initiatives that seem to have gain in popularity lately these Code Dojos are targetted at software professionals and academics. It is great to see a spin off on the concept being used by non-profit groups to teach youngsters to code and enjoy programming. This is certainly something I would like to get further involved in, in the future.
+Code Dojos are targeted at professional programmers and college / university graduates. This is unlike the 'CoderDojo' initiatives that have gained in popularity that aim to teach youngsters to code. It is great to see this development on the concept being used by non-profit group to help the next generation. This is certainly something I would like to get further involved in, in the future.
 
 ## Definition of a Code Dojo
 
@@ -58,7 +58,7 @@ Is that test too simple. What is verifying? - Often even programmers with a good
 
 ### There Are Plenty of Katas Out There
 
-You do not have to reinvent the wheel when running our own dojo. It can be nice to dream up your own katas and also give back new ideas to the community but do not forget there are plenty of pre-existing out there that you can easily choose as an exercise and this keeps the down complexity as an organiser.
+You do not have to reinvent the wheel when running our own dojo. It can be nice to dream up your own katas and also give back new ideas to the community but do not forget that there are plenty of pre-existing out there that you can easily choose as an exercise and this keeps the down complexity as an organiser.
 
 Some great resources include:
 
@@ -70,7 +70,7 @@ John Jagger's Cyber Dojo is another a great source of Kata and a pretty interest
 
 ### Deal with Anti-Social Issues
 
-Sexism, racism, homophobia and bullying are all toxic to any the learning environment. Nip anything like this in the bud immediately. I recommend encouraging wider participation of different demographics as having people from a variety backgrounds creates the right atmosphere for learning. An alpha male sausage sizzle is not conducive to great learning in my opinion. Encourage people to get to know each other and swap pairs.
+Sexism, racism, homophobia and bullying are all toxic to any the learning environment. Nip anything like this in the bud immediately. I recommend encouraging wider participation of different demographics as having people from a variety of backgrounds creates the right atmosphere for learning. An alpha male sausage sizzle is not conducive to great learning in my opinion. Encourage people to get to know each other and swap pairs.
 
 
 ## The Format
