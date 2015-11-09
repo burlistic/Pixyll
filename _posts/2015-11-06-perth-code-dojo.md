@@ -26,13 +26,13 @@ You can practice the katas used in Code Dojos on your own, but I recommend findi
 
 ## The Perth Dojo
 
-The Perth Code Dojo was started in 2014 and focused on software craftsmanship and XP practises (TDD, Pairing and a little bit of refactoring). The process of setting up the dojo was fairly straight forward although it does take some time commitment and put me out of my comfort zone a couple of times, which in itself was a form of deliberate practise.  I had to promote and seek sponsorship and learn to speak as an authority on programming practises in-front of a crowd of strangers (most of whom where decent programmers). I gained some great experience in logistics for running events, speaking in public, group facilitation and got to know some of the best developers in town as well as improve my own programing skills - what’s not to like!
+The Perth Code Dojo was started in 2014 and focused on software craftsmanship and XP practises (TDD, Pairing and a little bit of refactoring). The process of setting up the dojo was fairly straight forward although it does take some time commitment and put me out of my comfort zone a couple of times, which in itself was a form of deliberate practise.  I had to promote and seek sponsorship and learn to speak as an authority on programming practises in-front of a crowd of strangers (most of whom where decent programmers). I gained some great experience in logistics for running events, speaking in public, group facilitation and got to know some of the best developers in town as well as improve my own programing skills - whatâ€™s not to like!
 
 ## Some Tips Running a Code Dojo
 
 ### Make People Feel Safe
 
-As the facilitator of a dojo you must try to foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyone’s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
+As the facilitator of a dojo you must try to foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyoneâ€™s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
 
 If need be take individuals aside and ask them to be a bit more forgiving and concentrate more on helping others in the correct manor.
 
