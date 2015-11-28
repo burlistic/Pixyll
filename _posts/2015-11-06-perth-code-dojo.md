@@ -6,11 +6,11 @@ summary:    Experience Running The Perth Code Dojo
 categories: 
 ---
 
-Shortly after moving to Perth I decided to set up a local [Code Dojo](http://www.meetup.com/perth-code-dojo). It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzz feeling).
+Shortly after moving to Perth I decided to set up a local [Code Dojo](http://www.meetup.com/perth-code-dojo). It is a great way to improve as a programmer, learn, share with others and be part of a community (which gives you a warm fuzzy feeling).
 
 Previously I had been a member of the [London Code Dojo](http://www.meetup.com/London-Code-Dojo) and had ran dojos as a way of training TDD and programming practices for clients. In this post I will share my experiences in attending code dojos and some tips on how to run your own.
 
-Code Dojos are targeted at professional programmers and college / university graduates. This is unlike the 'CoderDojo' initiatives that have gained in popularity that aim to teach youngsters to code. It is great to see this development on the concept being used by non-profit group to help the next generation. This is certainly something I would like to get further involved in, in the future.
+Code Dojos are targeted at professional programmers and college / university graduates. This is unlike the 'CoderDojo' initiatives, which have gained in popularity and aim to teach youngsters to code. It is great to see this development on the concept being used by a non-profit group set up to help the next generation. This is certainly something I would like to get further involved in, in the future.
 
 ## Definition of a Code Dojo
 
@@ -20,31 +20,31 @@ A Coding Dojo is a meeting where a bunch of coders get together to work on a pro
 
 ## What Have I Personally Got Out of Attending Dojos?
 
-I like seeing the way others approach a problem. Pairing up with new likeminded developers and seeing how they work. At the difference Code Dojos I attended I gained a good exposure to different programming languages and tool sets. Often participants are more than happy to show people their ways of working and even teach n00bs. As a professional programmer you can refine your skills and get a chance to mentors others.
+I like seeing the way others approach a problem. Pairing up with new; likeminded developers and seeing how they work. At the different Code Dojos I attended I gained a good exposure to different programming languages and tool sets. Often participants are more than happy to show people their ways of working and even teach n00bs. As a professional programmer you can refine your skills and get a chance to mentors others.
 
 You can practice the katas used in Code Dojos on your own, but I recommend finding your local Dojo (or starting one) and getting involved.
 
 ## The Perth Dojo
 
-The Perth Code Dojo was started in 2014 and focused on software craftsmanship and XP practises (TDD, Pairing and a little bit of refactoring). The process of setting up the dojo was fairly straight forward although it does take some time commitment and put me out of my comfort zone a couple of times, which in itself was a form of deliberate practise.  I had to promote and seek sponsorship and learn to speak as an authority on programming practises in-front of a crowd of strangers (most of whom where decent programmers). I gained some great experience in logistics for running events, speaking in public, group facilitation and got to know some of the best developers in town as well as improve my own programing skills - what’s not to like!
+The Perth Code Dojo was started in 2014 and focused on software craftsmanship and XP practises (TDD, Pairing and a little bit of refactoring). The process of setting up the dojo was fairly straight forward, although it does take some time commitment and put me out of my comfort zone a couple of times, which in itself was a form of deliberate practise.  I had to promote and seek sponsorship and learn to speak as an authority on programming practises in-front of a crowd of strangers (most of whom where decent programmers). I gained some great experience in logistics for running events, speaking in public, group facilitation and got to know some of the best developers in town, as well as improve my own programing skills - what’s not to like!
 
 ## Some Tips Running a Code Dojo
 
 ### Make People Feel Safe
 
-As the facilitator of a dojo you must try to foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyone’s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
+As the facilitator of a dojo you must foster a safe environment so people feel comfortable to ask questions and reach out for help. Make it clear that the purpose of the dojo is to provide a safe place to learn away from the usual business pressures of delivery. When sharing code amongst the group be watchful of people being too critical, especially if it is not constructive, and applaud and appreciate everyone’s attempt at solving a problem. Remember we were all new to programming once and any good programmer will always have an open mind and a lot to learn. No one likes a know it all!
 
-If need be take individuals aside and ask them to be a bit more forgiving and concentrate more on helping others in the correct manor.
+If need be take individuals aside and ask them to be a bit more forgiving and concentrate more on helping others in the correct manner.
 
 ### The Host
 
-You do need to have a good understanding of TDD and general programming practise. But you do not need to be the best programmer in the room to host a successful dojo. I found it a great way to improve my own skills and sharpen up by facilitating and taking part.
+You do need to have a good understanding of TDD and general programming practise. But you do not need to be the best programmer in the room to host a successful dojo. I found it a great way to improve my own skills by facilitating and taking part.
 
-I recommend you do the kata yourself beforehand, so you can experience the challenge and provide people with guidance. By doing the kata in your own time you can also push yourself a little further as you are not time constrained and push yourself further to try out new languages or techniques. You also have more time for research and reviewing your own approach with what others may have done online.
+I recommend you do the kata yourself beforehand, so you can experience the challenge and provide people with guidance. By doing the kata in your own time you can also push yourself a little further as you are not time constrained. This means you can try out new languages or techniques. You also have more time for research and reviewing your own approach with what others may have done online.
 
 ### Do Not Assume Peoples Skill Set
 
-Skilled programmers often do not like admitting they are stuck or do not understand something.  I recommend being a little obtrusive at times and asking to see peoples code and especially unit tests if practicing TDD. I have found that sometimes the most vocal members of a dojo might be missing a crucial point and this can lead them to not gain as much as they otherwise would from the exercise. A vocal person such as this can also lead their pairing partner down the wrong path and instil the wrong types of practices. Do not be afraid to challenge people in the right way. The key is being respectful and making sure your intention comes across correctly - you are there to help and not criticise.
+Skilled programmers often do not like admitting they are stuck or do not understand something.  I recommend being a little obtrusive at times, ask to see peoples code and especially unit tests; if practicing TDD. I have found that sometimes the most vocal members of a dojo might be missing a crucial point and this can lead them to not gaining as much as they otherwise would from the exercise. A vocal person such as this can also lead their pairing partner down the wrong path and instil the wrong types of practices. Do not be afraid to challenge people in the right way. The key is being respectful and making sure your intention comes across correctly - you are there to help and not criticise.
 
 ### Walk the Room
 
@@ -58,7 +58,7 @@ Is that test too simple. What is verifying? - Often even programmers with a good
 
 ### There Are Plenty of Katas Out There
 
-You do not have to reinvent the wheel when running our own dojo. It can be nice to dream up your own katas and also give back new ideas to the community but do not forget that there are plenty of pre-existing out there that you can easily choose as an exercise and this keeps the down complexity as an organiser.
+You do not have to reinvent the wheel when running our own dojo. It can be nice to dream up your own katas and also give back new ideas to the community but there are plenty of pre-existing out there that you choose from. This keeps the down complexity as an organiser.
 
 Some great resources include:
 
@@ -68,9 +68,11 @@ TDD Kata by Garora on Github - [github.com/garora/TDD-Katas](https://github.com/
 
 John Jagger's Cyber Dojo is another a great source of Kata and a pretty interesting tool in itself - [cyber-dojo.org](http://cyber-dojo.org/)
 
+SleepyFox's collection of London Dojo examples on Github - [github.com/sleepyfox](http://github.com/sleepyfox)
+
 ### Deal with Anti-Social Issues
 
-Sexism, racism, homophobia and bullying are all toxic to any the learning environment. Nip anything like this in the bud immediately. I recommend encouraging wider participation of different demographics as having people from a variety of backgrounds creates the right atmosphere for learning. An alpha male sausage sizzle is not conducive to great learning in my opinion. Encourage people to get to know each other and swap pairs.
+Sexism, racism, homophobia and bullying are all toxic to any the learning environment. Nip anything like this in the bud immediately. I recommend encouraging wider participation of different demographics, as having people from a variety of backgrounds creates the right atmosphere for learning. An alpha male sausage sizzle is not conducive to great learning. Encourage people to get to know each other and swap pairs.
 
 
 ## The Format
@@ -79,19 +81,19 @@ For the Perth Codo Dojo I took the format used at the London Code Dojo and Sleep
 
 - Give people 15 minutes to arrive, grab a drink and say hello to their fellow code crafts people
 
-- Begin with a round robin asking people to introduce themselves and an ice-breaker. An interesting fact about themselves or something they got up to at the weekend. This is crucial as it helps the other members to get to know each other better and by having each individual speak early on encourages participation - much the same with any workshop or retrospective.
+- Begin with a round robin asking people to introduce themselves as an ice-breaker. An interesting fact about themselves or something they got up to at the weekend. This is crucial as it helps the other members to get to know each other and by having individuals speaking early on encourages participation - much the same as it does with any workshop or retrospective.
 
-- Start with a brief intro explaining the concept of the dojo and the format for new arrivals and as a reminder. Explain the rules and ask people to be respectful and turn their phones to silent and stay off social media.
+- Start with a brief intro explaining the concept of the dojo and the format for new arrivals and as a reminder to old hands. Explain the rules and ask people to be respectful of everyones commitment to learn and turn their phones to silent.
 
-- Provide an introduction to the chosen kata then ask people to pair up. Give them 15 minutes to discuss and set up their environment Language of choice, IDE, test framework, etc. If there is an odd number than a group of three is fine.
+- Provide an introduction to the chosen kata then ask people to pair up. Give them 15 minutes to discuss and set up their environment: Language of choice, IDE, test framework, etc. If there is an odd number than a group of three is fine.
 
-- Use the Pomodoro technique, with 25 minutes focused time on the kata and 5 minutes down time - I find this works great for paired programming and not just Codo Katas. Generally three Pomodoros is a nice time to spend on a kata before people begin to lose interest or you might find some people finish simple challenges. Ideally you want the challenge to remain unfinished for all; they can always finish or polish it after.
+- Use the [Pomodoro](http://tomatoi.st) technique, with 25 minutes focused time on the kata and 5 minutes down time - I find this works great for paired programming and not just Codo Katas. Generally three Pomodoros is a nice time to spend on a kata before people begin to lose interest or you might find some people finish simple challenges. Ideally you want the challenge to remain unfinished for all; they can always finish or polish it after.
+
+- Leave time at the end for a mini retro / learn and share exercise. Ask pairs to volunteer and hook up their machine to a big screen to run through their approach. People are often willing to share and this discussion at the end is very valuable for socialising learning amongst the group.
 
 - Get some pizza - if you have some sponsorship. Sharing food is another great way to encourage a group atmosphere where learning is encouraged.  And people like pizza. Plus it is a convenient food to eat when trying to work.
 
-- Leave time at the end for a mini retro / learn and share exercise. Ask pairs to volunteer and hook up their machine to a big screen to run through their approach. I have found people are often willing to share and this discussion at the end is very valuable for socialising learning amongst the group.
-
-- Some prizes - if sponsorship permits is always a nice touch
+- Prizes - if sponsorship permits is always a nice touch
 
 ### Checklist for the Venue
 
@@ -101,8 +103,8 @@ For the Perth Codo Dojo I took the format used at the London Code Dojo and Sleep
 
 ### Links to GitHub / slides
 
-My examples can be found on [GitHub](http://github.com/burlistic)
+My code examples can be found on [GitHub](http://github.com/burlistic)
 
-The slides I produced can be found on [SpeakerDeck](http://speakerdeck.com/burlistic) and are re-usable under Creative Commons
+The slides can be found on [SpeakerDeck](http://speakerdeck.com/burlistic) and are re-usable under Creative Commons
 
 Thanks to [@sleepyfox](https://twitter.com/sleepyfox) and our sponsors - [Kiandra IT](http://kiandra.com.au/), [Ajilon](http://www.ajilon.com.au/), [Robert Walters](http://www.robertwalters.com.au) and [Spacecubed](http://spacecubed.com)
