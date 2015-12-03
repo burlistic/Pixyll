@@ -108,3 +108,5 @@ My code examples can be found on [GitHub](http://github.com/burlistic)
 The slides can be found on [SpeakerDeck](http://speakerdeck.com/burlistic) and are re-usable under Creative Commons
 
 Thanks to [@sleepyfox](https://twitter.com/sleepyfox) and our sponsors - [Kiandra IT](http://kiandra.com.au/), [Ajilon](http://www.ajilon.com.au/), [Robert Walters](http://www.robertwalters.com.au) and [Spacecubed](http://spacecubed.com)
+Thanks to [@sleepyfox](https://twitter.com/sleepyfox) and our sponsors - [Kiandra IT](http://kiandra.com.au/), [Ajilon](http://www.ajilon.com.au/), [Robert Walters](http://www.robertwalters.com.au) and [Spacecubed](http://spacecubed.com)
+Thanks to [@sleepyfox](https://twitter.com/sleepyfox) and our sponsors - [Kiandra IT](http://kiandra.com.au/), [Ajilon](http://www.ajilon.com.au/), [Robert Walters](http://www.robertwalters.com.au) and [Spacecubed](http://spacecubed.com)
