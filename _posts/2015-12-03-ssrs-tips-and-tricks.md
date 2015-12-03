@@ -6,7 +6,7 @@ summary:    Random notes on my experiences using SSRS
 categories: 
 ---
 
-Some notes from using Microsoft's SSRS 2014 to build complex pre-filled forms which where exported to PDF via the SOAP service
+Notes from using Microsoft's SSRS 2014 to build complex pre-filled forms which where exported to PDF via the SOAP service
 
 ## Page Breaks Not Working When Exporting to PDF
 
