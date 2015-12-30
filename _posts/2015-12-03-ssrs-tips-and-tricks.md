@@ -12,9 +12,17 @@ Notes from using Microsoft's SSRS 2014 to build complex pre-filled forms which w
 
 If you have an empty Tablix row, without a empty textbox or other element, then any page breaks you have after will not work when exporting to PDF. A random issue I found as we where modifying the XML by hand. Via the UI Visual Studio re-inserts an empty text box to stop this happening.
 
+## Use Rectangles to Insert Page Breaks Between Sub Reports
+
+The page breaking on Tablix groups proved to be troublesome. Removing these and adding a rectangle at the end of each sub report with a page break proved to be a lot more reliable.
+
 ## Page Headers and Footers
 
 Page breaks do not working in headers and footers - which makes sense in hindsight. Likewise, page numbers cannot be accessed in the report body.
+
+## Implementing Space Pages
+
+A simple way we found to implement spacer pages when a sub report ends on odd page was to insert some place holder text then to process the PDF using a library such as iText to add the empty pages as required on the fly.
 
 ## Populating Drop Downs and Adding Default Options
 
@@ -32,4 +40,4 @@ Delete the contents of the debug folder. If this doesn't work; hit the refresh o
 
 ## One Click Deploy
 
-Set the server path via the Project settings. The hitting run will deploy your files to the server. Configuration settings can be used to stop deployment of Datasets.
+Set the server path via the Project settings. The hitting run right click deploy on the project file to push your files to the server. Configuration settings can be used to stop deployment of Datasets.
