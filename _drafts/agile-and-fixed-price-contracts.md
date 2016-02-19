@@ -11,6 +11,8 @@ Intro
 ## What is a Fixed Price Contract - in a Traditional Sense
 
 <blockquote>
-A contract to deliver software which fixed the price, outcome or scope often sometimes timelines
+A contract to deliver software which fixes the price, outcome or scope and often the timeline
 </blockquote>
+
+## Why this is a problem - challenges face
 
