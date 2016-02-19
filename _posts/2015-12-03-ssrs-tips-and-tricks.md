@@ -6,7 +6,7 @@ summary:    Random notes on my experiences using SSRS
 categories: 
 ---
 
-Notes from using Microsoft's SSRS to build complex pre-filled forms which where exported to PDF via the SOAP service
+Notes from using Microsoft's SSRS to build complex pre-filled forms which were exported to PDF via the SOAP service
 
 ## Installing Toolset for Visual Studio
 
@@ -20,13 +20,13 @@ You will need to use this window a lot to add datasets and params. Annoyingly it
 
 ## Document Outline
 
-Another handy window is the Document Outline. This make navigation a lot easier when constructing complex RDLS.
+Another handy window is the Document Outline. This makes navigation a lot easier when constructing complex RDLS.
 
 ![document outline](http://burlistic.github.io/images/ssrs/document%20outline.jpg)
 
-## Emtpy Tablix / Lists
+## Empty Tablix / Lists
 
-Sometimes it can be handy to use the table layout of a list but there is no dataset. In this case simply add a dummy data set by using the following SQL <i>select 'emtpy'</i>
+Sometimes it can be handy to use the table layout of a list but there is no dataset. In this case simply add a dummy data set by using the following SQL <i>select 'empty'</i>
 
 ## Populating Drop Downs and Adding Default Options
 
@@ -63,7 +63,7 @@ Below are some of downloads for a 'draft' and 'copy' (included are the [GIMP](ht
 
 ## Page Breaks Not Working When Exporting to PDF
 
-If you have an empty Tablix row, without a empty textbox or other element, then any page breaks you have after will not work when exporting to PDF. A random issue I found as we where modifying the XML by hand. Via the UI Visual Studio re-inserts an empty text box to stop this happening.
+If you have an empty Tablix row, without an empty textbox or other element, then any page breaks you have after will not work when exporting to PDF. A random issue I found as we were modifying the XML by hand. Via the UI Visual Studio re-inserts an empty text box to stop this happening.
 
 ## Use Rectangles to Insert Page Breaks Between Sub Reports
 
@@ -75,9 +75,9 @@ If the page break isn't working then you can add an empty Textbox to force it to
 
 To force a left margin; position content slightly using the left property. The page margins seem to be ignored for some reason when exporting.
 
-## Inconsitent Borders when Exporting to PDF
+## Inconsistent Borders when Exporting to PDF
 
-When using subreports the borders can be inconsistent. To remedy this increase the borders of the emelement in the subreports by 1pt. Do not add a border to the subreport placeholder if the content can grow across pages as this do not render well.
+When using subreports the borders can be inconsistent. To remedy this increase the borders of the element in the subreports by 1pt. Do not add a border to the subreport placeholder if the content can grow across pages as this do not render well.
 
 ## Implementing Spacer Pages
 
@@ -93,4 +93,4 @@ Added in _SERVER to the URL and this will hide the navigation
 
 Set the server path via the Project settings. The hitting run right click deploy on the project file to push your files to the server. Configuration settings can be used to stop deployment of Datasets.
 
-It is recommend you clean down the environment and delete data sets and reports (RDLS) before deployment. Any easy way to do this is to add a parent folder, then you delete the folder in one hit and not need to delete each item individually.
+It is recommend you clean down the environment and delete data sets and reports (RDLS) before deployment. Any easy way to do this is to add a parent folder, and then you delete the folder in one hit and not need to delete each item individually.
