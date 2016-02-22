@@ -24,11 +24,11 @@ A fixed price contract will often also fix the delivery date.
 
 # Price
 
-Clients are very keen to get a fixed price up front for software build. This is understandable in an industry where projects, especially large complex ones, often goes over budget.
+Clients are very keen to get a fixed price up front for software build. This is understandable in an industry where projects, especially large complex ones, often go over budget.
 
-# Why do Organisations Seek These Types of Engagements?
+# Why do Organisations  Seek These Types of Engagements?
 
-The traditional fixed price contract is seen by the many as the best tool for limiting  risk of non-delivery. Orgnisations are used to drawing up contracts in this way for various elements of their business and feel comfortable with this approach.
+The traditional fixed price contract is seen by the many as the best tool for limiting risk of non-delivery. Organisations are used to drawing up contracts in this way for various elements of their business and feel comfortable with this approach.
 
  Unfortunately this is not normally the best for building software and there are much better ways of managing risk and predictability using iterative delivery methods.
 
@@ -37,7 +37,7 @@ The traditional fixed price contract is seen by the many as the best tool for li
 
 # Flexibility
 
-Obviously fixing a contract on specif deliverables makes it harder to change the requirements. Re-negotiations are likely to be required which can be tricky, especially if there is an unforeseen cost increases or if somethings need to be descoped that has already been promised to a stakeholder.
+Obviously fixing a contract on specific deliverables makes it harder to change the requirements. Re-negotiations are likely to be required which can be tricky, especially if there is an unforeseen cost increases or if somethings need to be descoped that has already been promised to a stakeholder.
 
 # Easy to Blow Budget
 
@@ -45,7 +45,7 @@ Forecasting budgets for complex IT projects is proven to be very challenging. Qu
 
 # Quality at Risk
 
-It is often quality that suffers if a project becomes under stress. The first thing to be cut is normally testing, reviews and refactoring - both important element in code quality and on going maintainability. This often comes about where there is a looming deadline and time is running out. 
+It is often quality that suffers if a project becomes under stress. The first thing to be cut is normally testing, reviews and refactoring - both important element in code quality and on-going maintainability. This often comes about where there is a looming deadline and time is running out. 
 
 # Can Cost More
 
@@ -63,7 +63,7 @@ The client culture can present a challenge when setting a method of delivery.
 
 Large established corporations often have historic processes, procedures and rigid structures. These organisations they might not feel comfortable or to be set to support an Agile approach and it can take some time and considerable effort to embed new practices.
 
-Although a lot of large clients are trying to break down these kind of barriers to encourage a culture that support innovation so they can stay competitive and continue to grow.
+Although a lot of large clients are trying to break down these kinds of barriers to encourage a culture that support innovation so they can stay competitive and continue to grow.
 
 ## Alternatives
 
@@ -85,9 +85,9 @@ One of the most difficult challenges is sharing the merits of an iterative appro
 
 # Spike Early
 
-If you client is keen on fixing a price then you can propose a series or spikes (proof of concepts) to build an better understanding. Keep doing this until both parties have an agreed understanding which will allow for fixing a price with better accuracy.
+If you client is keen on fixing a price then you can propose a series or spikes (proof of concepts) to build a better understanding. Keep doing this until both parties have an agreed understanding which will allow for fixing a price with better accuracy.
 
-This will limit the perceived exposure on the clients side but still give you one of the most important benefits of an iterative approach - which is not assuming and predicting too much up front.
+This will limit the perceived exposure on the client's side but still give you one of the most important benefits of an iterative approach - which is not assuming and predicting too much up front.
 
 # Needs instead of wants
 
@@ -95,9 +95,9 @@ By having an agile emergent approach the clients can focus more on value of the 
 
 ## Key Take Aways
 
-# Fixed price requires better risk management
+# Fixed Price Requires Better Risk Management
 
-Fixing the price and specific outcomes up front agitates the risk and makes a complex project more likely to come understress and to be challenged. As a result extra risk mitigation is often required. This can included; increased margin for budget, controlled change management process, detailed up front analysis, thorough negotiation and specific agreements on deliverables.
+Fixing the price and specific outcomes up front agitates the risk and makes a complex project more likely to come under stress and to be challenged. As a result extra risk mitigation is often required. This can included; increased margin for budget, controlled change management process, detailed up front analysis, thorough negotiation and specific agreements on deliverables.
 
 # Understand your customer
 
