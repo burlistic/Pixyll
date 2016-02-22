@@ -33,31 +33,25 @@ The traditional fixed price contract is seen as the best tool for limiting  cust
 
 ## Why this is a problem - challenges faced
 
-# The Iron Triangle
-
-Fixing scope, devliery time and price can pose even greater challange and is ideally best avoided. These three are elements are described as the project management forces, or iron triangle. By fixing all three forces the only room for give is quailty is the project plan is placed understress.
-
-There are different ways of fixing a price as described in the alternatives, which enables an agile approach.
-
 # Flexability
 
-Obviously fixing a contract on spefic deliverables makes it harder to change the requirements
+Obviously fixing a contract on spefic deliverables makes it harder to change the requirements. Re-negotiations are likey to be required which can be tricky, especially if there is an unforseen cost increases.
 
 # Easy to Blow Budget
 
-Forecasting budgets for complex IT projects is proven to be very challenging. Quite often large projects overrun spectacualry. 
+Forecasting budgets for complex IT projects is proven to be very challenging. Quite often large projects overrun spectacualry.
 
 # Quality at Risk
 
-It is ofen quality that suffers if a project becomes understress. The first thing to be cut is always through testing, reviews and refactoring. This often comes about where there is a looming deadline and time is running out. Features that might be of less value need to be built as there are detailed in the contract and there is not an apitight for re-negioation.
+It is ofen quality that suffers if a project becomes understress. The first thing to be cut is noramlly testing, reviews and refactoring - both important element in code quality and on going maintainability. This often comes about where there is a looming deadline and time is running out. 
 
 # Can Cost More
 
-A project can end up costing more as the management and time factors running a fixed price project adds additional overheads.
+A project can end up costing more as the management and time factors involved running a fixed price project adds additional overheads. Large projects might need months of analysis up front and contract negititation. Then the customer might not see a release of software until completion.
 
 # Change Management / Client Relationship
 
-Change management needs to be well managed and adds additional complexity. The client relationship can also suffer. Re-negotiation of contacts and extentions puts stress on a relaionship. Especially if the orginal plan or esitamte was incorrect and did not have enough of a buffer to account for unforeseen challanged.
+Change management needs to be well managed and adds additional complexity. The client relations can also suffer. Re-negotiation of contacts and extentions puts stress on a client / consultant relaionship. Especially if the orginal plan or esitamte was incorrect and there was not an adequte buffer to account for unforeseen challanges.
 
 # Conways Law / Client Culture
 
