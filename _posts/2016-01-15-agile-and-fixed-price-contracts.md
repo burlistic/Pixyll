@@ -6,7 +6,7 @@ summary:    Guide to fixed price contracts and the alternative methods of delive
 categories: 
 ---
 
-This is a guide to fixed price contracts and the alternative methods of delivery for software development. It is based on a discussion I facilitated at a Agile Perth Lunch time session. It was a hot topic and generated and an insightful discussion. Thanks for everyone who took part and helped shape our understanding of this common challenge.
+This is a guide to fixed price contracts and the alternative methods of delivery for software development. It is based on a discussion I facilitated at Agile Perth. It was a hot topic and generated an insightful discussion. Thanks for everyone who took part and helped shape our understanding of this common challenge.
 
 ## What is a Fixed Price Contract - in a Traditional Sense
 
@@ -28,10 +28,7 @@ Clients are very keen to get a fixed price up front for software build. This is 
 
 ## Why do Organisations Seek These Types of Engagements?
 
-The traditional fixed price contract is seen by the many as the best tool for limiting risk of non-delivery. Organisations are used to drawing up contracts in this way for various elements of their business and feel comfortable with this approach.
-
- Unfortunately this is not normally the best for building software and there are much better ways of managing risk and predictability using iterative delivery methods.
-
+The traditional fixed price contract is seen by many as the best tool for limiting risk of non-delivery. Organisations are used to drawing up contracts in this way for various elements of their business and feel comfortable with this approach.
 
 # Why This is a Problem - The Challenges Faced
 
