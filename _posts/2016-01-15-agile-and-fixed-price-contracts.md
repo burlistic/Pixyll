@@ -34,7 +34,7 @@ The traditional fixed price contract is seen by many as the best tool for limiti
 
 ## Flexibility
 
-Obviously fixing a contract on specific deliverables makes it harder to change the requirements. Re-negotiations are likely to be required which can be tricky, especially if there is an unforeseen cost increases or if somethings need to be descoped that has already been promised to a stakeholder.
+Fixing a contract on specific deliverables makes it harder to change the requirements or technologies. Re-negotiations are likely to be required which can be tricky, especially if there is an unforeseen cost increases or if somethings need to be descoped that has already been promised to a stakeholder. In software development the requirements often change as complex models are matured and better understood.
 
 ## Easy to Blow Budget
 
@@ -42,7 +42,7 @@ Forecasting budgets for complex IT projects is proven to be very challenging. Qu
 
 ## Quality at Risk
 
-It is often quality that suffers if a project becomes under stress. The first thing to be cut is normally testing, reviews and refactoring - both important element in code quality and on-going maintainability. This often comes about where there is a looming deadline and time is running out. 
+It is often quality that suffers if a project becomes under stress. Thorough testing, reviews and refactoring are normally suffer most - all important elements in code quality and on-going maintainability. This often comes about where there is a looming deadline and time is running out. 
 
 ## Can Cost More
 
