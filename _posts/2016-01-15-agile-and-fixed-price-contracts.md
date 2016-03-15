@@ -78,7 +78,7 @@ Build up a strong working relationship based on trust and keep working on it. It
 
 ## Help the Client to Sell Approach to Stakeholders
 
-One of the most difficult challenges is sharing the merits of an Agile approach with upper management and getting agreement. Help your client do this and provide them with the support they require. For example provides some case studies, white papers, metrics or offer to meet the stakeholders and discuss the approach with them directly. Any time spent on this activity be well worth it.
+One of the most difficult challenges is sharing the merits of an Agile approach with upper management and getting agreement. Help your client do this and provide them with the support they require. For example provide case studies, white papers, metrics or offer to meet the stakeholders and discuss the approach with them directly. Any time spent on this activity be well worth it.
 
 ## Spike Early
 
@@ -98,7 +98,7 @@ Fixing the price and specific outcomes up front agitates the risk and makes a co
 
 ## Understand your customer
 
-Get to know your customer, their business environment and culture. It is essential you understand the potential challenges so you can work out a delivery model that will work for them and provide the right level of support when looking to implement modern approaches or improvement.
+Get to know your customer, their business environment and culture. It is essential you understand the potential challenges so you can work out a delivery model that will work for them. Provide the right level of support and adequate pace when looking to implement modern approaches or improvements.
 
 Forcing through a new approach rarely works, especially if there is no support from upper management. Being patient, listening and building trust are vital factors in order to maintain a health working relationship.
 
