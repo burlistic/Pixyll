@@ -42,7 +42,7 @@ Forecasting budgets for complex IT projects is proven to be very challenging. Qu
 
 ## Quality at Risk
 
-It is often quality that suffers if a project becomes under stress. Thorough testing, reviews and refactoring are normally hit first - all important elements in code quality and on-going maintainability. This often comes about where there is a looming fixed deadline or budget and time is running out. The important of quality need to be gauged. Are you building a proof of concept or something with a short life span? Will the costs of maintenance or lost revenue add up and end up cost more over time if quality is poor? Is the system safety critical?
+It is often quality that suffers if a project becomes under stress. Thorough testing, reviews and refactoring are normally hit first - all important elements in code quality and on-going maintainability. This often comes about where there is a looming fixed deadline or budget and time is running out. The importance of quality needs to be gauged. Are you building a proof of concept or something with a short life span? Will the costs of maintenance or lost revenue add up and end up cost more over time if quality is poor? Is the system safety critical?
 
 ## Can Cost More
 
@@ -60,7 +60,7 @@ The client culture can present a challenge when setting a method of delivery.
 
 Large established corporations often have historic processes, procedures and rigid structures. These organisations might not feel comfortable or to be set up to support an Agile approach and as a result it can take considerable effort and time to embed new practices.
 
-Despite this large clients are trying to break down these barriers to encourage a culture that supports innovation to remain competative in markets that are constantly evolving.
+Despite this large clients are trying to break down these barriers to encourage a culture that supports innovation to remain competitive in markets that are constantly evolving.
 
 # Alternatives
 
@@ -88,7 +88,7 @@ This will limit the perceived exposure on the client's side but still give you o
 
 ## Needs Instead of Wants
 
-By having an emergent approach the clients can focus more on value of the backlog and have the opportunity to change their mind during the build. This can be immensely valuable, especially for projects where there is a high degree of complexity where new ideas and a better understanding of the problem will mature over time. Leaving commitment to the last resonable moment will result in a better quality outcome and the more valuable features will naturally get more focus - especially if the software is demonstrated and tested with real users during the build.
+By having an emergent approach the clients can focus more on value of the backlog and have the opportunity to change their mind during the build. This can be immensely valuable, especially for projects where there is a high degree of complexity where new ideas and a better understanding of the problem will mature over time. Leaving commitment to the last reasonable moment will result in a better quality outcome and the more valuable features will naturally get more focus - especially if the software is demonstrated and tested with real users during the build.
 
 # Key Take Aways
 
