@@ -61,9 +61,9 @@ The client culture can present a challenge when setting a method of delivery.
 
 “The structure of a problem reflects the structure of the organization that created it.” Bill Corcoran’s version of Conway’s Law.
 
-Large established corporations often have historic processes, procedures and rigid structures. These organisations they might not feel comfortable or to be set to support an Agile approach and it can take some time and considerable effort to embed new practices.
+Large established corporations often have historic processes, procedures and rigid structures. These organisations might not feel comfortable or to be set up to support an Agile approach and as a result it can take considerable effort and time to embed new practices.
 
-Although a lot of large clients are trying to break down these kinds of barriers to encourage a culture that support innovation so they can stay competitive and continue to grow.
+Despite this large clients are trying to break down these barriers to encourage a culture that supports innovation to remain competative in markets that are constantly evolving.
 
 # Alternatives
 
