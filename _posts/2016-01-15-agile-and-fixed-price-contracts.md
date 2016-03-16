@@ -96,7 +96,7 @@ By having an emergent approach the clients can focus more on value of the backlo
 
 Fixing the price and specific outcomes up front agitates the risk and makes a complex project more likely to come under stress and to be challenged. As a result extra risk mitigation is often required. This can included; increased margin for budget, controlled change management process, detailed up front analysis, thorough negotiation and specific agreements on well defined deliverables.
 
-## Understand your customer
+## Understand Your Customer
 
 Get to know your customer, their business environment and culture. It is essential you understand the potential challenges so you can work out a delivery model that will work for them and provide the right level of support when looking to implement modern approaches or improvement.
 
