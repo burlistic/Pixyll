@@ -64,7 +64,7 @@ Despite this large clients are trying to break down these barriers to encourage 
 
 # Alternatives
 
-## Fixed Price \ Variable Scope
+## Fixed Price / Variable Scope
 
 Another way to fix a price of a contract is to agree a price for a fixed period delivery and have high level scope which will be the target goal. This is sometimes referred to as fixed price and variable scope or time and materials - the later term I do not believe suits the complex world of software delivery.
 
