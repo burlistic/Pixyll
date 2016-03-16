@@ -8,7 +8,7 @@ categories:
 
 This is a guide to fixed price contracts and the alternative methods of delivery for software development. It is based on a discussion I facilitated at Agile Perth. It was a hot topic and generated an insightful discussion. Thanks for everyone who took part and helped shape our understanding of this common challenge.
 
-## What is a Fixed Price Contract - in a Traditional Sense
+## What is a Fixed Price Contract
 
 <blockquote>
 A contract to deliver software which fixes the price, outcome or scope and often the timeline
