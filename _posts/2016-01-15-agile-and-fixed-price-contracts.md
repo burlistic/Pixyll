@@ -8,7 +8,7 @@ categories:
 
 This is a guide to fixed price contracts and the alternative methods of delivery for software development. It is based on a discussion I facilitated at Agile Perth. It was a hot topic and generated an insightful discussion. Thanks for everyone who took part and helped shape our understanding of this common challenge.
 
-## What is a Fixed Price Contract - in a Traditional Sense
+## What is a Fixed Price Contract
 
 <blockquote>
 A contract to deliver software which fixes the price, outcome or scope and often the timeline
@@ -64,7 +64,7 @@ Despite this large clients are trying to break down these barriers to encourage 
 
 # Alternatives
 
-## Fixed Price \ Variable Scope
+## Fixed Price / Variable Scope
 
 Another way to fix a price of a contract is to agree a price for a fixed period delivery and have high level scope which will be the target goal. This is sometimes referred to as fixed price and variable scope or time and materials - the later term I do not believe suits the complex world of software delivery.
 
@@ -96,7 +96,7 @@ By having an emergent approach the clients can focus more on value of the backlo
 
 Fixing the price and specific outcomes up front agitates the risk and makes a complex project more likely to come under stress and to be challenged. As a result extra risk mitigation is often required. This can included; increased margin for budget, controlled change management process, detailed up front analysis, thorough negotiation and specific agreements on well defined deliverables.
 
-## Understand your customer
+## Understand Your Customer
 
 Get to know your customer, their business environment and culture. It is essential you understand the potential challenges so you can work out a delivery model that will work for them. Provide the right level of support and adequate pace when looking to implement modern approaches or improvements.
 
