@@ -57,3 +57,6 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
+
+# Gems
+gems: [jekyll-paginate]
