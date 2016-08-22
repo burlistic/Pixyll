@@ -2,7 +2,7 @@
 layout:     post
 title:      The New Eco Way to Commute (emicro one)
 date:       2016-06-16
-summary:    Using An emicro On A Daily Commute
+summary:    Using an emicro on a daily commute
 categories: 
 ---
 
