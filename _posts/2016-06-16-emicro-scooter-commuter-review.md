@@ -24,7 +24,7 @@ Three months in and I use the scooter on a daily basis.  The scooter has clever 
 
 ## Tips
 
-The sweet spot for the scooter is short journeys over smooth surfaces. I ride my scooter 3km to the station, then fold it away to board the train. The scooter really came into it's own when I have another journey at the other end of my train ride. It was a great mode of transport as a consultant, as I could visit different client sides with ease or make it back to HQ for meetings or special interest groups.
+The sweet spot for the scooter is short journeys over smooth surfaces. I ride my scooter 3km to the station, then fold it away to board the train. The scooter really comes into it's own when I have another journey at the other end of my train ride. It was a great mode of transport as a consultant, as I could visit different client sides with ease or make it back to HQ for meetings or special interest groups.
 
 Rough roads can be a little hard to stomach at first due to the limited absorption from the tyres. After a while you get used to rougher surfaces, as you bit up strength in your legs.
 
