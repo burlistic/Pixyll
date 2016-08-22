@@ -44,8 +44,4 @@ Head over to your local [emicro website](https://www.microscooters.com.au/emicro
 
 ## Conclusion
 
-The scooter has been great so far. I would recommend using it as a commuter for trips of 3-4km on smooth quiet roads or good cycle paths. Rougher ground can be hard work, but in smaller doses it is fine.
-
-The scooter come into it's own if you have a journey either side of a train ride. Scooting it is great fun and an environmentally friendly way of getting around.
-
-Get one!
+The scooter has been great so far. I would recommend using it as a commuter for trips of 3-4km on smooth quiet roads or good cycle paths. It is great fun to ride and does not take much effort, so you arrive at work fresh and ready to tackle the day ahead.
